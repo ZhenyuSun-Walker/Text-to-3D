@@ -91,4 +91,6 @@ Other repos:
 ## Related Repos and Websites
 - **[Awesome Text-to-3D](https://github.com/yyeboah/Awesome-Text-to-3D)**
 - **[Text-to-3D](https://paperswithcode.com/task/text-to-3d)**
+- **[ThreeDee AI 3D Generator](https://www.threedee.design/products/ai-3d-generator/)**
+- **[ThreeDee AI 3D Bust Maker](https://www.threedee.design/products/3d-bust-maker/)**
 
